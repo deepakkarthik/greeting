@@ -19,6 +19,6 @@ public class GreetingController {
 	
 	@GetMapping("/")
 	public String deepak() {
-		return new "I am deepak karthik";
+		return  "I am deepak karthik";
 	}
 }
